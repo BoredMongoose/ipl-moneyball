@@ -1,0 +1,227 @@
+player,team,price_cr,acquired
+Ruturaj Gaikwad,Chennai Super Kings,18.0,Retained
+Ravindra Jadeja,Chennai Super Kings,18.0,Retained
+Matheesha Pathirana,Chennai Super Kings,13.0,Retained
+Shivam Dube,Chennai Super Kings,12.0,Retained
+MS Dhoni,Chennai Super Kings,4.0,Retained
+Axar Patel,Delhi Capitals,16.5,Retained
+Kuldeep Yadav,Delhi Capitals,13.25,Retained
+Tristan Stubbs,Delhi Capitals,10.0,Retained
+Abhishek Porel,Delhi Capitals,4.0,Retained
+Rashid Khan,Gujarat Titans,18.0,Retained
+Shubman Gill,Gujarat Titans,16.5,Retained
+Sai Sudharsan,Gujarat Titans,8.5,Retained
+Rahul Tewatia,Gujarat Titans,4.0,Retained
+Shahrukh Khan,Gujarat Titans,4.0,Retained
+Rinku Singh,Kolkata Knight Riders,13.0,Retained
+Varun Chakravarthy,Kolkata Knight Riders,12.0,Retained
+Sunil Narine,Kolkata Knight Riders,12.0,Retained
+Andre Russell,Kolkata Knight Riders,12.0,Retained
+Ramandeep Singh,Kolkata Knight Riders,4.0,Retained
+Harshit Rana,Kolkata Knight Riders,4.0,Retained
+Nicholas Pooran,Lucknow Super Giants,21.0,Retained
+Ravi Bishnoi,Lucknow Super Giants,11.0,Retained
+Mayank Yadav,Lucknow Super Giants,11.0,Retained
+Mohsin Khan,Lucknow Super Giants,4.0,Retained
+Ayush Badoni,Lucknow Super Giants,4.0,Retained
+Jasprit Bumrah,Mumbai Indians,18.0,Retained
+Suryakumar Yadav,Mumbai Indians,16.35,Retained
+Hardik Pandya,Mumbai Indians,16.35,Retained
+Rohit Sharma,Mumbai Indians,16.3,Retained
+Tilak Varma,Mumbai Indians,8.0,Retained
+Shashank Singh,Punjab Kings,5.5,Retained
+Prabhsimran Singh,Punjab Kings,4.0,Retained
+Sanju Samson,Rajasthan Royals,18.0,Retained
+Yashasvi Jaiswal,Rajasthan Royals,18.0,Retained
+Dhruv Jurel,Rajasthan Royals,14.0,Retained
+Riyan Parag,Rajasthan Royals,14.0,Retained
+Shimron Hetmyer,Rajasthan Royals,11.0,Retained
+Sandeep Sharma,Rajasthan Royals,4.0,Retained
+Virat Kohli,Royal Challengers Bengaluru,21.0,Retained
+Rajat Patidar,Royal Challengers Bengaluru,11.0,Retained
+Yash Dayal,Royal Challengers Bengaluru,5.0,Retained
+Heinrich Klaasen,Sunrisers Hyderabad,23.0,Retained
+Pat Cummins,Sunrisers Hyderabad,18.0,Retained
+Abhishek Sharma,Sunrisers Hyderabad,14.0,Retained
+Travis Head,Sunrisers Hyderabad,14.0,Retained
+Nitish Kumar Reddy,Sunrisers Hyderabad,6.0,Retained
+Jos Buttler,Gujarat Titans,15.75,Auction
+Shreyas Iyer,Punjab Kings,26.75,Auction
+Rishabh Pant,Lucknow Super Giants,27.0,Auction
+Kagiso Rabada,Gujarat Titans,10.75,Auction
+Arshdeep Singh,Punjab Kings,18.0,Auction
+Mitchell Starc,Delhi Capitals,11.75,Auction
+Yuzvendra Chahal,Punjab Kings,18.0,Auction
+Liam Livingstone,Royal Challengers Bengaluru,8.75,Auction
+David Miller,Lucknow Super Giants,7.5,Auction
+KL Rahul,Delhi Capitals,14.0,Auction
+Mohammed Shami,Sunrisers Hyderabad,10.0,Auction
+Mohammed Siraj,Gujarat Titans,12.25,Auction
+Harry Brook,Delhi Capitals,6.25,Auction
+Devon Conway,Chennai Super Kings,6.25,Auction
+Jake Fraser-McGurk,Delhi Capitals,9.0,Auction
+Aiden Markram,Lucknow Super Giants,2.0,Auction
+Devdutt Padikkal,Royal Challengers Bengaluru,2.0,Auction
+Rahul Tripathi,Chennai Super Kings,3.4,Auction
+Ravichandran Ashwin,Chennai Super Kings,9.75,Auction
+Venkatesh Iyer,Kolkata Knight Riders,23.75,Auction
+Mitchell Marsh,Lucknow Super Giants,3.4,Auction
+Glenn Maxwell,Punjab Kings,4.2,Auction
+Harshal Patel,Sunrisers Hyderabad,8.0,Auction
+Rachin Ravindra,Chennai Super Kings,4.0,Auction
+Marcus Stoinis,Punjab Kings,11.0,Auction
+Quinton de Kock,Kolkata Knight Riders,3.6,Auction
+Rahmanullah Gurbaz,Kolkata Knight Riders,2.0,Auction
+Ishan Kishan,Sunrisers Hyderabad,11.25,Auction
+Phil Salt,Royal Challengers Bengaluru,11.5,Auction
+Jitesh Sharma,Royal Challengers Bengaluru,11.0,Auction
+Khaleel Ahmed,Chennai Super Kings,4.8,Auction
+Jofra Archer,Rajasthan Royals,12.5,Auction
+Trent Boult,Mumbai Indians,12.5,Auction
+Josh Hazlewood,Royal Challengers Bengaluru,12.5,Auction
+Avesh Khan,Lucknow Super Giants,9.75,Auction
+Prasidh Krishna,Gujarat Titans,9.5,Auction
+T. Natarajan,Delhi Capitals,10.75,Auction
+Anrich Nortje,Kolkata Knight Riders,6.5,Auction
+Noor Ahmad,Chennai Super Kings,10.0,Auction
+Rahul Chahar,Sunrisers Hyderabad,3.2,Auction
+Wanindu Hasaranga,Rajasthan Royals,5.25,Auction
+Maheesh Theekshana,Rajasthan Royals,4.4,Auction
+Adam Zampa,Sunrisers Hyderabad,2.4,Auction
+Abhinav Manohar,Sunrisers Hyderabad,3.2,Auction
+Karun Nair,Delhi Capitals,0.5,Auction
+Angkrish Raghuvanshi,Kolkata Knight Riders,3.0,Auction
+Atharva Taide,Sunrisers Hyderabad,0.3,Auction
+Nehal Wadhera,Punjab Kings,4.2,Auction
+Harpreet Brar,Punjab Kings,1.5,Auction
+Naman Dhir,Mumbai Indians,5.25,Auction
+Mahipal Lomror,Gujarat Titans,1.7,Auction
+Sameer Rizvi,Delhi Capitals,0.95,Auction
+Abdul Samad,Lucknow Super Giants,4.2,Auction
+Vijay Shankar,Chennai Super Kings,1.2,Auction
+Ashutosh Sharma,Delhi Capitals,3.8,Auction
+Nishant Sindhu,Gujarat Titans,0.3,Auction
+Aryan Juyal,Lucknow Super Giants,0.3,Auction
+Kumar Kushagra,Gujarat Titans,0.65,Auction
+Robin Minz,Mumbai Indians,0.65,Auction
+Anuj Rawat,Gujarat Titans,0.3,Auction
+Luvnith Sisodia,Kolkata Knight Riders,0.3,Auction
+Vishnu Vinod,Punjab Kings,0.95,Auction
+Vaibhav Arora,Kolkata Knight Riders,1.8,Auction
+Rasikh Salam Dar,Royal Challengers Bengaluru,6.0,Auction
+Akash Madhwal,Rajasthan Royals,1.2,Auction
+Mohit Sharma,Delhi Capitals,2.2,Auction
+Simarjeet Singh,Sunrisers Hyderabad,1.5,Auction
+Yash Thakur,Punjab Kings,1.6,Auction
+Vijaykumar Vyshak,Punjab Kings,1.8,Auction
+Shreyas Gopal,Chennai Super Kings,0.3,Auction
+Mayank Markande,Kolkata Knight Riders,0.3,Auction
+Suyash Sharma,Royal Challengers Bengaluru,2.6,Auction
+Karn Sharma,Mumbai Indians,0.5,Auction
+Kumar Kartikeya,Rajasthan Royals,0.3,Auction
+Manav Suthar,Gujarat Titans,0.3,Auction
+Faf du Plessis,Delhi Capitals,2.0,Auction
+Glenn Phillips,Gujarat Titans,2.0,Auction
+Rovman Powell,Kolkata Knight Riders,1.5,Auction
+Ajinkya Rahane,Kolkata Knight Riders,1.5,Auction
+Sam Curran,Chennai Super Kings,2.4,Auction
+Marco Jansen,Punjab Kings,7.0,Auction
+Krunal Pandya,Royal Challengers Bengaluru,5.75,Auction
+Nitish Rana,Rajasthan Royals,4.2,Auction
+Washington Sundar,Gujarat Titans,3.2,Auction
+Donovan Ferreira,Delhi Capitals,0.75,Auction
+Josh Inglis,Punjab Kings,2.6,Auction
+Ryan Rickelton,Mumbai Indians,1.0,Auction
+Deepak Chahar,Mumbai Indians,9.25,Auction
+Gerald Coetzee,Gujarat Titans,2.4,Auction
+Akash Deep,Lucknow Super Giants,8.0,Auction
+Tushar Deshpande,Rajasthan Royals,6.5,Auction
+Lockie Ferguson,Punjab Kings,2.0,Auction
+Bhuvneshwar Kumar,Royal Challengers Bengaluru,10.75,Auction
+Mukesh Kumar,Delhi Capitals,8.0,Auction
+Allah Ghazanfar,Mumbai Indians,4.8,Auction
+Swastik Chikara,Royal Challengers Bengaluru,0.3,Auction
+Shubham Dubey,Rajasthan Royals,0.8,Auction
+Shaik Rasheed,Chennai Super Kings,0.3,Auction
+Himmat Singh,Lucknow Super Giants,0.3,Auction
+Anshul Kamboj,Chennai Super Kings,3.4,Auction
+Arshad Khan,Gujarat Titans,1.3,Auction
+Darshan Nalkande,Delhi Capitals,0.3,Auction
+Anukul Roy,Kolkata Knight Riders,0.4,Auction
+Swapnil Singh,Royal Challengers Bengaluru,0.5,Auction
+Vansh Bedi,Chennai Super Kings,0.55,Auction
+Kunal Rathore,Rajasthan Royals,0.3,Auction
+Gurnoor Brar,Gujarat Titans,1.3,Auction
+Mukesh Choudhary,Chennai Super Kings,0.3,Auction
+Arjun Tendulkar,Mumbai Indians,0.3,Auction
+Zeeshan Ansari,Sunrisers Hyderabad,0.4,Auction
+Manimaran Siddharth,Lucknow Super Giants,0.75,Auction
+Digvesh Singh,Lucknow Super Giants,0.3,Auction
+Manish Pandey,Kolkata Knight Riders,0.75,Auction
+Sherfane Rutherford,Gujarat Titans,2.6,Auction
+Shahbaz Ahmed,Lucknow Super Giants,2.4,Auction
+Tim David,Royal Challengers Bengaluru,3.0,Auction
+Deepak Hooda,Chennai Super Kings,1.7,Auction
+Will Jacks,Mumbai Indians,5.25,Auction
+Azmatullah Omarzai,Punjab Kings,2.4,Auction
+Sai Kishore,Gujarat Titans,2.0,Auction
+Romario Shepherd,Royal Challengers Bengaluru,1.5,Auction
+Spencer Johnson,Kolkata Knight Riders,2.8,Auction
+Umran Malik,Kolkata Knight Riders,0.75,Auction
+Ishant Sharma,Gujarat Titans,0.75,Auction
+Nuwan Thushara,Royal Challengers Bengaluru,1.6,Auction
+Jaydev Unadkat,Sunrisers Hyderabad,1.0,Auction
+Sachin Baby,Sunrisers Hyderabad,0.3,Auction
+Harnoor Singh,Punjab Kings,0.3,Auction
+Andre Siddarth,Chennai Super Kings,0.3,Auction
+Yudhvir Singh,Rajasthan Royals,0.35,Auction
+Rajvardhan Hangargekar,Lucknow Super Giants,0.3,Auction
+Arshin Kulkarni,Lucknow Super Giants,0.3,Auction
+Ashwani Kumar,Mumbai Indians,0.3,Auction
+Akash Singh,Lucknow Super Giants,0.3,Auction
+Gurjapneet Singh,Chennai Super Kings,2.2,Auction
+Matthew Breetzke,Lucknow Super Giants,0.75,Auction
+Mitchell Santner,Mumbai Indians,2.0,Auction
+Jayant Yadav,Gujarat Titans,0.75,Auction
+Fazalhaq Farooqi,Rajasthan Royals,2.0,Auction
+Kwena Maphaka,Rajasthan Royals,1.5,Auction
+Kuldeep Sen,Punjab Kings,0.8,Auction
+Reece Topley,Mumbai Indians,0.75,Auction
+Lizaad Williams,Mumbai Indians,0.75,Auction
+Priyansh Arya,Punjab Kings,3.8,Auction
+Manoj Bhandage,Royal Challengers Bengaluru,0.3,Auction
+Praveen Dubey,Punjab Kings,0.3,Auction
+Ajay Mandal,Delhi Capitals,0.3,Auction
+Vipraj Nigam,Delhi Capitals,0.5,Auction
+Krishnan Shrijith,Mumbai Indians,0.3,Auction
+Mohit Rathee,Royal Challengers Bengaluru,0.3,Auction
+Jacob Bethell,Royal Challengers Bengaluru,2.6,Auction
+Brydon Carse,Sunrisers Hyderabad,1.0,Auction
+Aaron Hardie,Punjab Kings,1.25,Auction
+Kamindu Mendis,Sunrisers Hyderabad,0.75,Auction
+Dushmantha Chameera,Delhi Capitals,0.75,Auction
+Nathan Ellis,Chennai Super Kings,2.0,Auction
+Shamar Joseph,Lucknow Super Giants,0.75,Auction
+Aniket Verma,Sunrisers Hyderabad,0.3,Auction
+Raj Angad Bawa,Mumbai Indians,0.3,Auction
+Musheer Khan,Punjab Kings,0.3,Auction
+Manvanth Kumar L,Delhi Capitals,0.3,Auction
+Suryansh Shedge,Punjab Kings,0.3,Auction
+Kulwant Khejroliya,Gujarat Titans,0.3,Auction
+Prince Yadav,Lucknow Super Giants,0.3,Auction
+Jamie Overton,Chennai Super Kings,1.5,Auction
+Xavier Bartlett,Punjab Kings,0.8,Auction
+Lungi Ngidi,Royal Challengers Bengaluru,1.0,Auction
+Yuvraj Chaudhary,Lucknow Super Giants,0.3,Auction
+Kamlesh Nagarkoti,Chennai Super Kings,0.3,Auction
+Abhinandan Singh,Royal Challengers Bengaluru,0.3,Auction
+Karim Janat,Gujarat Titans,0.75,Auction
+Pyla Avinash,Punjab Kings,0.3,Auction
+Ramakrishna Ghosh,Chennai Super Kings,0.3,Auction
+Bevon Jacobs,Mumbai Indians,0.3,Auction
+Ashok Sharma,Rajasthan Royals,0.3,Auction
+Vaibhav Sooryavanshi,Rajasthan Royals,1.1,Auction
+Eshan Malinga,Sunrisers Hyderabad,1.2,Auction
+Tripurana Vijay,Delhi Capitals,0.3,Auction
+Madhav Tiwari,Delhi Capitals,0.4,Auction
+Vignesh Puthur,Mumbai Indians,0.3,Auction

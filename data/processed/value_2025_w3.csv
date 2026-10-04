@@ -1,0 +1,227 @@
+player_full,team,price_cr,acquired,cricsheet_name,matches,runs,balls_faced,wickets,balls_bowled,runs_conceded,bat_runs_added,bowl_runs_added,total_runs_added,expected_runs_added,surplus,price_band,steal_rank,bust_rank
+Jasprit Bumrah,Mumbai Indians,18.0,Retained,JJ Bumrah,12,0.0,1.0,18.0,284.0,316.0,-1.5,153.1,151.6,21.5,130.1,Marquee (₹10cr+),1,226
+Nicholas Pooran,Lucknow Super Giants,21.0,Retained,N Pooran,14,524.0,267.0,0.0,0.0,0.0,126.5,0.0,126.5,26.5,100.0,Marquee (₹10cr+),2,225
+Suryakumar Yadav,Mumbai Indians,16.35,Retained,SA Yadav,16,717.0,427.0,0.0,0.0,0.0,109.9,0.0,109.9,18.7,91.2,Marquee (₹10cr+),3,224
+Prasidh Krishna,Gujarat Titans,9.5,Auction,M Prasidh Krishna,15,0.0,0.0,25.0,354.0,488.0,0.0,98.1,98.1,7.2,90.9,Mid (₹3-10cr),4,223
+Priyansh Arya,Punjab Kings,3.8,Auction,Priyansh Arya,18,545.0,299.0,0.0,0.0,0.0,80.5,0.0,80.5,-2.4,82.9,Mid (₹3-10cr),5,222
+Varun Chakravarthy,Kolkata Knight Riders,12.0,Retained,CV Varun,13,1.0,1.0,17.0,300.0,383.0,-0.5,90.7,90.3,11.4,78.9,Marquee (₹10cr+),6,221
+Vaibhav Sooryavanshi,Rajasthan Royals,1.1,Auction,V Suryavanshi,7,252.0,122.0,0.0,0.0,0.0,65.1,0.0,65.1,-6.9,72.0,Budget (<₹3cr),7,220
+Kuldeep Yadav,Delhi Capitals,13.25,Retained,Kuldeep Yadav,14,18.0,16.0,15.0,318.0,390.0,-14.4,99.5,85.0,13.5,71.5,Marquee (₹10cr+),8,219
+Jaydev Unadkat,Sunrisers Hyderabad,1.0,Auction,JD Unadkat,7,0.0,0.0,11.0,143.0,175.0,0.0,64.1,64.1,-7.1,71.2,Budget (<₹3cr),9,218
+Mitchell Marsh,Lucknow Super Giants,3.4,Auction,MR Marsh,13,627.0,383.0,0.0,0.0,0.0,67.1,0.0,67.1,-3.0,70.1,Mid (₹3-10cr),10,217
+Shreyas Iyer,Punjab Kings,26.75,Auction,SS Iyer,17,604.0,345.0,0.0,0.0,0.0,97.8,0.0,97.8,36.2,61.6,Marquee (₹10cr+),11,216
+Sunil Narine,Kolkata Knight Riders,12.0,Retained,SP Narine,12,246.0,144.0,12.0,270.0,351.0,13.9,58.0,71.9,11.4,60.5,Marquee (₹10cr+),12,215
+Digvesh Singh,Lucknow Super Giants,0.3,Auction,DS Rathi,13,1.0,3.0,14.0,312.0,429.0,-6.4,58.2,51.8,-8.2,60.0,Budget (<₹3cr),13,214
+Abhishek Sharma,Sunrisers Hyderabad,14.0,Retained,Abhishek Sharma,14,439.0,227.0,0.0,66.0,112.0,91.3,-20.0,71.4,14.8,56.6,Marquee (₹10cr+),14,213
+Josh Hazlewood,Royal Challengers Bengaluru,12.5,Auction,JR Hazlewood,12,0.0,1.0,22.0,264.0,386.0,-1.3,68.9,67.6,12.3,55.3,Marquee (₹10cr+),15,212
+Noor Ahmad,Chennai Super Kings,10.0,Auction,Noor Ahmad,14,7.0,17.0,24.0,300.0,408.0,-29.9,89.6,59.7,8.1,51.6,Marquee (₹10cr+),16,211
+Sai Sudharsan,Gujarat Titans,8.5,Retained,B Sai Sudharsan,15,759.0,486.0,0.0,0.0,0.0,53.6,0.0,53.6,5.5,48.1,Mid (₹3-10cr),17,210
+Naman Dhir,Mumbai Indians,5.25,Auction,Naman Dhir,12,252.0,138.0,0.0,24.0,21.0,30.9,14.1,45.0,0.1,44.9,Mid (₹3-10cr),18,209
+Jos Buttler,Gujarat Titans,15.75,Auction,JC Buttler,13,538.0,330.0,0.0,0.0,0.0,62.6,0.0,62.6,17.7,44.9,Marquee (₹10cr+),19,208
+Heinrich Klaasen,Sunrisers Hyderabad,23.0,Retained,H Klaasen,13,487.0,282.0,0.0,0.0,0.0,74.7,0.0,74.7,29.9,44.8,Marquee (₹10cr+),20,207
+Prabhsimran Singh,Punjab Kings,4.0,Retained,P Simran Singh,18,599.0,370.0,0.0,0.0,0.0,41.1,0.0,41.1,-2.0,43.1,Mid (₹3-10cr),21,206
+Phil Salt,Royal Challengers Bengaluru,11.5,Auction,PD Salt,13,403.0,229.0,0.0,0.0,0.0,51.3,0.0,51.3,10.6,40.7,Marquee (₹10cr+),22,205
+Eshan Malinga,Sunrisers Hyderabad,1.2,Auction,E Malinga,7,0.0,0.0,13.0,160.0,238.0,0.0,32.8,32.8,-6.7,39.5,Budget (<₹3cr),23,204
+Mitchell Santner,Mumbai Indians,2.0,Auction,MJ Santner,13,40.0,33.0,10.0,237.0,313.0,-13.4,46.9,33.5,-5.4,38.9,Budget (<₹3cr),24,203
+Trent Boult,Mumbai Indians,12.5,Auction,TA Boult,16,2.0,3.0,22.0,346.0,517.0,-5.4,56.3,50.9,12.3,38.6,Marquee (₹10cr+),25,202
+Tim David,Royal Challengers Bengaluru,3.0,Auction,TH David,9,187.0,101.0,0.0,0.0,0.0,34.5,0.0,34.5,-3.7,38.2,Mid (₹3-10cr),26,201
+Anshul Kamboj,Chennai Super Kings,3.4,Auction,A Kamboj,8,14.0,12.0,8.0,129.0,172.0,-9.6,40.2,30.7,-3.0,33.7,Mid (₹3-10cr),27,200
+Arshdeep Singh,Punjab Kings,18.0,Auction,Arshdeep Singh,16,2.0,6.0,21.0,350.0,518.0,-9.8,63.5,53.7,21.5,32.2,Marquee (₹10cr+),28,199
+Vipraj Nigam,Delhi Capitals,0.5,Auction,V Nigam,14,142.0,79.0,11.0,234.0,356.0,16.9,7.1,24.0,-7.9,31.9,Budget (<₹3cr),29,198
+Karun Nair,Delhi Capitals,0.5,Auction,KK Nair,8,198.0,115.0,0.0,0.0,0.0,20.8,0.0,20.8,-7.9,28.7,Budget (<₹3cr),30,197
+Krunal Pandya,Royal Challengers Bengaluru,5.75,Auction,KH Pandya,15,109.0,86.0,17.0,276.0,379.0,-27.1,55.4,28.3,0.9,27.4,Mid (₹3-10cr),31,196
+Shubman Gill,Gujarat Titans,16.5,Retained,Shubman Gill,15,650.0,417.0,0.0,0.0,0.0,45.6,0.0,45.6,19.0,26.6,Marquee (₹10cr+),32,195
+Karn Sharma,Mumbai Indians,0.5,Auction,KV Sharma,5,1.0,1.0,7.0,90.0,128.0,-0.5,19.0,18.5,-7.9,26.4,Budget (<₹3cr),33,194
+Riyan Parag,Rajasthan Royals,14.0,Retained,R Parag,14,393.0,236.0,3.0,120.0,170.0,37.3,3.8,41.1,14.8,26.3,Marquee (₹10cr+),34,193
+Jitesh Sharma,Royal Challengers Bengaluru,11.0,Auction,JM Sharma,11,261.0,148.0,0.0,0.0,0.0,33.0,0.0,33.0,9.7,23.3,Marquee (₹10cr+),35,192
+Aniket Verma,Sunrisers Hyderabad,0.3,Auction,Aniket Verma,12,236.0,142.0,0.0,0.0,0.0,14.8,0.0,14.8,-8.2,23.0,Budget (<₹3cr),36,191
+Shahrukh Khan,Gujarat Titans,4.0,Retained,M Shahrukh Khan,11,179.0,100.0,1.0,6.0,13.0,22.7,-1.9,20.8,-2.0,22.8,Mid (₹3-10cr),37,190
+Josh Inglis,Punjab Kings,2.6,Auction,JP Inglis,11,278.0,171.0,0.0,0.0,0.0,17.5,0.0,17.5,-4.4,21.9,Budget (<₹3cr),38,189
+Harpreet Brar,Punjab Kings,1.5,Auction,Harpreet Brar,7,11.0,13.0,10.0,132.0,190.0,-9.3,24.7,15.4,-6.2,21.6,Budget (<₹3cr),39,188
+Yashasvi Jaiswal,Rajasthan Royals,18.0,Retained,YBK Jaiswal,14,559.0,350.0,0.0,0.0,0.0,41.7,0.0,41.7,21.5,20.2,Marquee (₹10cr+),40,187
+Nuwan Thushara,Royal Challengers Bengaluru,1.6,Auction,N Thushara,1,0.0,0.0,1.0,24.0,26.0,0.0,12.6,12.6,-6.1,18.7,Budget (<₹3cr),41,186
+Romario Shepherd,Royal Challengers Bengaluru,1.5,Auction,R Shepherd,7,70.0,24.0,6.0,84.0,151.0,28.8,-16.4,12.4,-6.2,18.6,Budget (<₹3cr),42,185
+Vignesh Puthur,Mumbai Indians,0.3,Auction,V Puthur,5,0.0,0.0,6.0,72.0,109.0,0.0,9.3,9.3,-8.2,17.5,Budget (<₹3cr),43,184
+Lockie Ferguson,Punjab Kings,2.0,Auction,LH Ferguson,4,4.0,1.0,5.0,68.0,104.0,2.5,9.1,11.6,-5.4,17.0,Budget (<₹3cr),44,183
+Akash Singh,Lucknow Super Giants,0.3,Auction,Akash Singh,3,0.0,0.0,4.0,67.0,99.0,0.0,8.2,8.2,-8.2,16.4,Budget (<₹3cr),45,182
+Pat Cummins,Sunrisers Hyderabad,18.0,Retained,PJ Cummins,14,97.0,58.0,16.0,298.0,450.0,3.3,32.1,35.4,21.5,13.9,Marquee (₹10cr+),46,181
+Anukul Roy,Kolkata Knight Riders,0.4,Auction,AS Roy,1,0.0,1.0,1.0,24.0,27.0,-4.5,9.8,5.3,-8.1,13.4,Budget (<₹3cr),47,180
+Sameer Rizvi,Delhi Capitals,0.95,Auction,Sameer Rizvi,4,121.0,79.0,0.0,0.0,0.0,5.2,0.0,5.2,-7.1,12.3,Budget (<₹3cr),48,179
+Sherfane Rutherford,Gujarat Titans,2.6,Auction,SE Rutherford,11,291.0,185.0,0.0,0.0,0.0,7.8,0.0,7.8,-4.4,12.2,Budget (<₹3cr),49,178
+Jacob Bethell,Royal Challengers Bengaluru,2.6,Auction,JG Bethell,2,67.0,39.0,0.0,0.0,0.0,7.4,0.0,7.4,-4.4,11.8,Budget (<₹3cr),50,177
+Sai Kishore,Gujarat Titans,2.0,Auction,R Sai Kishore,15,5.0,10.0,19.0,255.0,393.0,-15.6,21.6,6.0,-5.4,11.4,Budget (<₹3cr),51,176
+Mohammed Siraj,Gujarat Titans,12.25,Auction,Mohammed Siraj,15,3.0,4.0,16.0,342.0,527.0,-2.9,25.4,22.6,11.8,10.8,Marquee (₹10cr+),52,175
+Raj Angad Bawa,Mumbai Indians,0.3,Auction,RA Bawa,1,8.0,4.0,0.0,0.0,0.0,2.1,0.0,2.1,-8.2,10.3,Budget (<₹3cr),53,174
+Khaleel Ahmed,Chennai Super Kings,4.8,Auction,KK Ahmed,14,1.0,2.0,15.0,280.0,447.0,-1.9,11.0,9.1,-0.7,9.8,Mid (₹3-10cr),54,173
+Luvnith Sisodia,Kolkata Knight Riders,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Anuj Rawat,Gujarat Titans,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Ajay Mandal,Delhi Capitals,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Sachin Baby,Sunrisers Hyderabad,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Swastik Chikara,Royal Challengers Bengaluru,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Darshan Nalkande,Delhi Capitals,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Harnoor Singh,Punjab Kings,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Ramakrishna Ghosh,Chennai Super Kings,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Mohit Rathee,Royal Challengers Bengaluru,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Kamlesh Nagarkoti,Chennai Super Kings,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Abhinandan Singh,Royal Challengers Bengaluru,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Manvanth Kumar L,Delhi Capitals,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Mayank Markande,Kolkata Knight Riders,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Aryan Juyal,Lucknow Super Giants,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Ashok Sharma,Rajasthan Royals,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Himmat Singh,Lucknow Super Giants,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Arjun Tendulkar,Mumbai Indians,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Rajvardhan Hangargekar,Lucknow Super Giants,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Arshin Kulkarni,Lucknow Super Giants,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Tripurana Vijay,Delhi Capitals,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Krishnan Shrijith,Mumbai Indians,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Pyla Avinash,Punjab Kings,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Yuvraj Chaudhary,Lucknow Super Giants,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Bevon Jacobs,Mumbai Indians,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Andre Siddarth,Chennai Super Kings,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Nishant Sindhu,Gujarat Titans,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Manav Suthar,Gujarat Titans,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Shreyas Gopal,Chennai Super Kings,0.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-8.2,8.2,Budget (<₹3cr),55,145
+Abdul Samad,Lucknow Super Giants,4.2,Auction,Abdul Samad,12,164.0,93.0,0.0,2.0,6.0,9.3,-2.9,6.5,-1.7,8.2,Mid (₹3-10cr),83,144
+Travis Head,Sunrisers Hyderabad,14.0,Retained,TM Head,12,374.0,230.0,0.0,0.0,0.0,22.9,0.0,22.9,14.8,8.1,Marquee (₹10cr+),84,143
+Shubham Dubey,Rajasthan Royals,0.8,Auction,SB Dubey,8,106.0,66.0,0.0,0.0,0.0,0.7,0.0,0.7,-7.4,8.1,Budget (<₹3cr),85,142
+Swapnil Singh,Royal Challengers Bengaluru,0.5,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.9,7.9,Budget (<₹3cr),86,141
+Vansh Bedi,Chennai Super Kings,0.55,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.8,7.8,Budget (<₹3cr),87,140
+Kumar Kushagra,Gujarat Titans,0.65,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.6,7.6,Budget (<₹3cr),88,139
+Praveen Dubey,Punjab Kings,0.3,Auction,P Dubey,1,0.0,0.0,1.0,12.0,20.0,0.0,-0.7,-0.7,-8.2,7.5,Budget (<₹3cr),89,138
+Jayant Yadav,Gujarat Titans,0.75,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.5,7.5,Budget (<₹3cr),90,134
+Lizaad Williams,Mumbai Indians,0.75,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.5,7.5,Budget (<₹3cr),90,134
+Umran Malik,Kolkata Knight Riders,0.75,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.5,7.5,Budget (<₹3cr),90,134
+Shamar Joseph,Lucknow Super Giants,0.75,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.5,7.5,Budget (<₹3cr),90,134
+Kuldeep Sen,Punjab Kings,0.8,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.4,7.4,Budget (<₹3cr),94,133
+Nathan Ellis,Chennai Super Kings,2.0,Auction,NT Ellis,1,0.0,0.0,1.0,24.0,38.0,0.0,2.0,2.0,-5.4,7.4,Budget (<₹3cr),95,132
+KL Rahul,Delhi Capitals,14.0,Auction,KL Rahul,13,539.0,360.0,0.0,0.0,0.0,22.0,0.0,22.0,14.8,7.2,Marquee (₹10cr+),96,131
+Vishnu Vinod,Punjab Kings,0.95,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.1,7.1,Budget (<₹3cr),97,130
+Brydon Carse,Sunrisers Hyderabad,1.0,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.1,7.1,Budget (<₹3cr),98,129
+Ashutosh Sharma,Delhi Capitals,3.8,Auction,Ashutosh Sharma,9,204.0,127.0,0.0,0.0,0.0,4.7,0.0,4.7,-2.4,7.1,Mid (₹3-10cr),99,128
+Aaron Hardie,Punjab Kings,1.25,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.6,6.6,Budget (<₹3cr),100,127
+Kulwant Khejroliya,Gujarat Titans,0.3,Auction,K Khejroliya,1,0.0,0.0,1.0,18.0,29.0,0.0,-1.6,-1.6,-8.2,6.6,Budget (<₹3cr),101,126
+Gurnoor Brar,Gujarat Titans,1.3,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.6,6.6,Budget (<₹3cr),102,125
+Ajinkya Rahane,Kolkata Knight Riders,1.5,Auction,AM Rahane,12,390.0,264.0,0.0,0.0,0.0,0.2,0.0,0.2,-6.2,6.4,Budget (<₹3cr),103,124
+Nitish Rana,Rajasthan Royals,4.2,Auction,N Rana,11,217.0,134.0,0.0,12.0,18.0,6.1,-1.7,4.4,-1.7,6.1,Mid (₹3-10cr),104,123
+Ayush Badoni,Lucknow Super Giants,4.0,Retained,A Badoni,13,329.0,222.0,2.0,10.0,13.0,-4.8,8.7,3.9,-2.0,5.9,Mid (₹3-10cr),105,122
+Mahipal Lomror,Gujarat Titans,1.7,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.9,5.9,Budget (<₹3cr),106,121
+Atharva Taide,Sunrisers Hyderabad,0.3,Auction,Atharva Taide,1,13.0,9.0,0.0,0.0,0.0,-2.6,0.0,-2.6,-8.2,5.6,Budget (<₹3cr),107,120
+Manish Pandey,Kolkata Knight Riders,0.75,Auction,MK Pandey,3,92.0,65.0,0.0,0.0,0.0,-2.0,0.0,-2.0,-7.5,5.5,Budget (<₹3cr),108,119
+Glenn Phillips,Gujarat Titans,2.0,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.4,5.4,Budget (<₹3cr),109,118
+Gurjapneet Singh,Chennai Super Kings,2.2,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,5.0,Budget (<₹3cr),110,117
+Deepak Chahar,Mumbai Indians,9.25,Auction,DL Chahar,14,37.0,25.0,11.0,246.0,376.0,-2.6,14.4,11.7,6.8,4.9,Mid (₹3-10cr),111,116
+Manimaran Siddharth,Lucknow Super Giants,0.75,Auction,M Siddharth,2,0.0,0.0,2.0,42.0,67.0,0.0,-2.8,-2.8,-7.5,4.7,Budget (<₹3cr),112,115
+Lungi Ngidi,Royal Challengers Bengaluru,1.0,Auction,L Ngidi,2,0.0,2.0,4.0,48.0,81.0,-2.9,0.5,-2.5,-7.1,4.6,Budget (<₹3cr),113,114
+Devdutt Padikkal,Royal Challengers Bengaluru,2.0,Auction,D Padikkal,10,247.0,164.0,0.0,0.0,0.0,-1.2,0.0,-1.2,-5.4,4.2,Budget (<₹3cr),114,113
+Kwena Maphaka,Rajasthan Royals,1.5,Auction,KT Maphaka,2,8.0,2.0,1.0,30.0,54.0,5.1,-7.2,-2.2,-6.2,4.0,Budget (<₹3cr),115,112
+Aiden Markram,Lucknow Super Giants,2.0,Auction,AK Markram,13,445.0,299.0,4.0,66.0,102.0,-2.9,0.8,-2.1,-5.4,3.3,Budget (<₹3cr),116,111
+Ryan Rickelton,Mumbai Indians,1.0,Auction,RD Rickelton,14,388.0,257.0,0.0,0.0,0.0,-4.4,0.0,-4.4,-7.1,2.7,Budget (<₹3cr),117,110
+Rahul Chahar,Sunrisers Hyderabad,3.2,Auction,RD Chahar,1,0.0,0.0,0.0,6.0,9.0,0.0,-0.9,-0.9,-3.4,2.5,Mid (₹3-10cr),118,109
+Mohsin Khan,Lucknow Super Giants,4.0,Retained,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,2.0,Mid (₹3-10cr),119,108
+Matthew Breetzke,Lucknow Super Giants,0.75,Auction,MP Breetzke,1,14.0,12.0,0.0,0.0,0.0,-5.8,0.0,-5.8,-7.5,1.7,Budget (<₹3cr),120,107
+Suyash Sharma,Royal Challengers Bengaluru,2.6,Auction,Suyash Sharma,14,0.0,0.0,8.0,300.0,442.0,0.0,-3.0,-3.0,-4.4,1.4,Budget (<₹3cr),121,106
+Donovan Ferreira,Delhi Capitals,0.75,Auction,D Ferreira,1,1.0,3.0,0.0,0.0,0.0,-6.4,0.0,-6.4,-7.5,1.1,Budget (<₹3cr),122,105
+Manoj Bhandage,Royal Challengers Bengaluru,0.3,Auction,MS Bhandage,1,1.0,4.0,0.0,0.0,0.0,-7.2,0.0,-7.2,-8.2,1.0,Budget (<₹3cr),123,104
+Rovman Powell,Kolkata Knight Riders,1.5,Auction,R Powell,1,5.0,5.0,0.0,0.0,0.0,-5.3,0.0,-5.3,-6.2,0.9,Budget (<₹3cr),124,103
+Shashank Singh,Punjab Kings,5.5,Retained,Shashank Singh,14,350.0,228.0,0.0,12.0,27.0,10.8,-9.4,1.3,0.5,0.8,Mid (₹3-10cr),125,102
+Allah Ghazanfar,Mumbai Indians,4.8,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.7,0.7,Mid (₹3-10cr),126,101
+Washington Sundar,Gujarat Titans,3.2,Auction,Washington Sundar,6,133.0,80.0,2.0,65.0,111.0,9.8,-12.6,-2.8,-3.4,0.6,Mid (₹3-10cr),127,100
+Nehal Wadhera,Punjab Kings,4.2,Auction,N Wadhera,15,369.0,253.0,0.0,5.0,9.0,-0.9,-1.2,-2.1,-1.7,-0.4,Mid (₹3-10cr),128,99
+Dhruv Jurel,Rajasthan Royals,14.0,Retained,Dhruv Jurel,13,333.0,213.0,0.0,0.0,0.0,13.4,0.0,13.4,14.8,-1.4,Marquee (₹10cr+),129,98
+Harry Brook,Delhi Capitals,6.25,Auction,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,-1.8,Mid (₹3-10cr),130,97
+Kunal Rathore,Rajasthan Royals,0.3,Auction,KS Rathore,1,0.0,5.0,0.0,0.0,0.0,-10.0,0.0,-10.0,-8.2,-1.8,Budget (<₹3cr),131,96
+Rahul Tewatia,Gujarat Titans,4.0,Retained,R Tewatia,12,99.0,59.0,0.0,0.0,0.0,-4.0,0.0,-4.0,-2.0,-2.0,Mid (₹3-10cr),132,95
+Madhav Tiwari,Delhi Capitals,0.4,Auction,M Tiwari,2,3.0,4.0,0.0,6.0,14.0,-5.6,-5.9,-11.4,-8.1,-3.3,Budget (<₹3cr),133,94
+Axar Patel,Delhi Capitals,16.5,Retained,AR Patel,13,263.0,167.0,5.0,216.0,313.0,6.9,8.0,14.9,19.0,-4.1,Marquee (₹10cr+),134,93
+Kamindu Mendis,Sunrisers Hyderabad,0.75,Auction,PHKD Mendis,5,92.0,69.0,2.0,42.0,60.0,-15.0,3.0,-12.0,-7.5,-4.5,Budget (<₹3cr),135,92
+Kumar Kartikeya,Rajasthan Royals,0.3,Auction,K Kartikeya,4,3.0,5.0,2.0,48.0,78.0,-6.7,-6.8,-13.5,-8.2,-5.3,Budget (<₹3cr),136,91
+Ishan Kishan,Sunrisers Hyderabad,11.25,Auction,Ishan Kishan,13,354.0,232.0,0.0,1.0,4.0,6.7,-2.4,4.3,10.2,-5.9,Marquee (₹10cr+),137,90
+Mukesh Choudhary,Chennai Super Kings,0.3,Auction,Mukesh Choudhary,2,0.0,0.0,1.0,36.0,71.0,0.0,-14.2,-14.2,-8.2,-6.0,Budget (<₹3cr),138,89
+Rahmanullah Gurbaz,Kolkata Knight Riders,2.0,Auction,Rahmanullah Gurbaz,5,74.0,53.0,0.0,0.0,0.0,-11.5,0.0,-11.5,-5.4,-6.1,Budget (<₹3cr),139,88
+Bhuvneshwar Kumar,Royal Challengers Bengaluru,10.75,Auction,B Kumar,14,14.0,25.0,17.0,312.0,483.0,-29.6,32.6,3.0,9.3,-6.3,Marquee (₹10cr+),140,87
+Musheer Khan,Punjab Kings,0.3,Auction,Musheer Khan,1,0.0,3.0,1.0,12.0,27.0,-6.9,-7.7,-14.6,-8.2,-6.4,Budget (<₹3cr),141,86
+Reece Topley,Mumbai Indians,0.75,Auction,RJW Topley,1,0.0,0.0,0.0,18.0,40.0,0.0,-14.4,-14.4,-7.5,-6.9,Budget (<₹3cr),142,85
+Vijay Shankar,Chennai Super Kings,1.2,Auction,V Shankar,5,118.0,91.0,0.0,0.0,0.0,-14.5,0.0,-14.5,-6.7,-7.8,Budget (<₹3cr),143,84
+Sandeep Sharma,Rajasthan Royals,4.0,Retained,Sandeep Sharma,10,6.0,5.0,9.0,219.0,361.0,-1.3,-8.8,-10.1,-2.0,-8.1,Mid (₹3-10cr),144,83
+Xavier Bartlett,Punjab Kings,0.8,Auction,XC Bartlett,4,11.0,15.0,2.0,60.0,96.0,-11.8,-3.8,-15.6,-7.4,-8.2,Budget (<₹3cr),145,82
+Marco Jansen,Punjab Kings,7.0,Auction,M Jansen,14,75.0,63.0,16.0,283.0,434.0,-27.7,21.7,-6.1,3.0,-9.1,Mid (₹3-10cr),146,81
+Rinku Singh,Kolkata Knight Riders,13.0,Retained,RK Singh,11,206.0,134.0,0.0,0.0,0.0,1.8,0.0,1.8,13.1,-11.3,Marquee (₹10cr+),147,80
+Abhishek Porel,Delhi Capitals,4.0,Retained,Abishek Porel,13,301.0,205.0,0.0,0.0,0.0,-14.0,0.0,-14.0,-2.0,-12.0,Mid (₹3-10cr),148,79
+Yash Thakur,Punjab Kings,1.6,Auction,Yash Thakur,2,0.0,0.0,1.0,39.0,79.0,0.0,-18.1,-18.1,-6.1,-12.0,Budget (<₹3cr),149,78
+Robin Minz,Mumbai Indians,0.65,Auction,R Minz,2,6.0,15.0,0.0,0.0,0.0,-19.7,0.0,-19.7,-7.6,-12.1,Budget (<₹3cr),150,77
+Ashwani Kumar,Mumbai Indians,0.3,Auction,Ashwani Kumar,7,0.0,0.0,11.0,123.0,232.0,0.0,-20.8,-20.8,-8.2,-12.6,Budget (<₹3cr),151,76
+Karim Janat,Gujarat Titans,0.75,Auction,Karim Janat,1,0.0,0.0,0.0,6.0,30.0,0.0,-21.9,-21.9,-7.5,-14.4,Budget (<₹3cr),152,75
+Will Jacks,Mumbai Indians,5.25,Auction,WG Jacks,12,233.0,172.0,6.0,84.0,120.0,-29.3,14.5,-14.8,0.1,-14.9,Mid (₹3-10cr),153,74
+Ramandeep Singh,Kolkata Knight Riders,4.0,Retained,Ramandeep Singh,7,47.0,35.0,0.0,0.0,0.0,-17.3,0.0,-17.3,-2.0,-15.3,Mid (₹3-10cr),154,73
+Angkrish Raghuvanshi,Kolkata Knight Riders,3.0,Auction,A Raghuvanshi,11,300.0,215.0,0.0,0.0,0.0,-19.0,0.0,-19.0,-3.7,-15.3,Mid (₹3-10cr),155,72
+Adam Zampa,Sunrisers Hyderabad,2.4,Auction,A Zampa,2,0.0,0.0,2.0,48.0,94.0,0.0,-20.3,-20.3,-4.7,-15.6,Budget (<₹3cr),156,71
+Vaibhav Arora,Kolkata Knight Riders,1.8,Auction,VG Arora,12,0.0,8.0,17.0,255.0,430.0,-16.6,-4.7,-21.4,-5.7,-15.7,Budget (<₹3cr),157,70
+Arshad Khan,Gujarat Titans,1.3,Auction,Arshad Khan,9,23.0,19.0,6.0,126.0,217.0,-10.1,-12.8,-22.9,-6.6,-16.3,Budget (<₹3cr),158,69
+Vijaykumar Vyshak,Punjab Kings,1.8,Auction,Vijaykumar Vyshak,5,0.0,0.0,4.0,102.0,181.0,0.0,-22.3,-22.3,-5.7,-16.6,Budget (<₹3cr),159,68
+Yash Dayal,Royal Challengers Bengaluru,5.0,Retained,Yash Dayal,15,4.0,8.0,13.0,294.0,470.0,-13.6,-3.9,-17.5,-0.3,-17.2,Mid (₹3-10cr),160,67
+Rasikh Salam Dar,Royal Challengers Bengaluru,6.0,Auction,Rasikh Salam,2,0.0,0.0,1.0,36.0,70.0,0.0,-16.3,-16.3,1.3,-17.6,Mid (₹3-10cr),161,66
+Yudhvir Singh,Rajasthan Royals,0.35,Auction,Yudhvir Singh,4,0.0,0.0,4.0,66.0,131.0,0.0,-25.8,-25.8,-8.2,-17.6,Budget (<₹3cr),162,65
+Hardik Pandya,Mumbai Indians,16.35,Retained,HH Pandya,15,224.0,137.0,14.0,210.0,342.0,4.8,-6.6,-1.8,18.7,-20.5,Marquee (₹10cr+),163,64
+Gerald Coetzee,Gujarat Titans,2.4,Auction,G Coetzee,4,17.0,11.0,2.0,72.0,131.0,-4.3,-20.9,-25.3,-4.7,-20.6,Budget (<₹3cr),164,63
+Jamie Overton,Chennai Super Kings,1.5,Auction,J Overton,3,15.0,7.0,0.0,36.0,83.0,4.7,-31.7,-27.0,-6.2,-20.8,Budget (<₹3cr),165,62
+Anrich Nortje,Kolkata Knight Riders,6.5,Auction,A Nortje,2,0.0,0.0,1.0,42.0,83.0,0.0,-18.7,-18.7,2.2,-20.9,Mid (₹3-10cr),166,61
+Virat Kohli,Royal Challengers Bengaluru,21.0,Retained,V Kohli,15,657.0,454.0,0.0,0.0,0.0,5.1,0.0,5.1,26.5,-21.4,Marquee (₹10cr+),167,60
+Prince Yadav,Lucknow Super Giants,0.3,Auction,Prince Yadav,6,5.0,10.0,3.0,137.0,225.0,-9.6,-20.2,-29.9,-8.2,-21.7,Budget (<₹3cr),168,59
+T. Natarajan,Delhi Capitals,10.75,Auction,T Natarajan,2,0.0,0.0,1.0,25.0,53.0,0.0,-13.6,-13.6,9.3,-22.9,Marquee (₹10cr+),169,58
+Glenn Maxwell,Punjab Kings,4.2,Auction,GJ Maxwell,7,48.0,49.0,4.0,78.0,110.0,-35.6,10.9,-24.7,-1.7,-23.0,Mid (₹3-10cr),170,57
+Devon Conway,Chennai Super Kings,6.25,Auction,DP Conway,6,156.0,119.0,0.0,0.0,0.0,-21.3,0.0,-21.3,1.8,-23.1,Mid (₹3-10cr),171,56
+Shaik Rasheed,Chennai Super Kings,0.3,Auction,SK Rasheed,5,71.0,63.0,0.0,0.0,0.0,-31.7,0.0,-31.7,-8.2,-23.5,Budget (<₹3cr),172,55
+Liam Livingstone,Royal Challengers Bengaluru,8.75,Auction,LS Livingstone,9,112.0,84.0,2.0,54.0,76.0,-23.5,5.9,-17.6,6.0,-23.6,Mid (₹3-10cr),173,54
+Suryansh Shedge,Punjab Kings,0.3,Auction,Suryansh Shedge,3,7.0,11.0,0.0,18.0,40.0,-17.5,-14.3,-31.8,-8.2,-23.6,Budget (<₹3cr),174,53
+Wanindu Hasaranga,Rajasthan Royals,5.25,Auction,PWH de Silva,11,9.0,15.0,11.0,246.0,371.0,-26.3,2.4,-23.9,0.1,-24.0,Mid (₹3-10cr),175,52
+Akash Madhwal,Rajasthan Royals,1.2,Auction,Akash Madhwal,4,4.0,9.0,4.0,90.0,166.0,-8.4,-22.4,-30.8,-6.7,-24.1,Budget (<₹3cr),176,51
+Tristan Stubbs,Delhi Capitals,10.0,Retained,T Stubbs,13,300.0,199.0,0.0,12.0,40.0,7.6,-23.7,-16.1,8.1,-24.2,Marquee (₹10cr+),177,50
+Ruturaj Gaikwad,Chennai Super Kings,18.0,Retained,RD Gaikwad,5,122.0,81.0,0.0,0.0,0.0,-3.2,0.0,-3.2,21.5,-24.7,Marquee (₹10cr+),178,49
+Rohit Sharma,Mumbai Indians,16.3,Retained,RG Sharma,15,418.0,280.0,0.0,0.0,0.0,-6.1,0.0,-6.1,18.6,-24.7,Marquee (₹10cr+),179,48
+Ishant Sharma,Gujarat Titans,0.75,Auction,I Sharma,7,0.0,0.0,4.0,110.0,205.0,0.0,-33.4,-33.4,-7.5,-25.9,Budget (<₹3cr),180,47
+Zeeshan Ansari,Sunrisers Hyderabad,0.4,Auction,Zeeshan Ansari,10,0.0,0.0,6.0,203.0,333.0,0.0,-34.5,-34.5,-8.1,-26.4,Budget (<₹3cr),181,46
+Rajat Patidar,Royal Challengers Bengaluru,11.0,Retained,RM Patidar,14,312.0,217.0,0.0,0.0,0.0,-17.0,0.0,-17.0,9.7,-26.7,Marquee (₹10cr+),182,45
+Tilak Varma,Mumbai Indians,8.0,Retained,Tilak Varma,13,343.0,248.0,0.0,0.0,0.0,-22.2,0.0,-22.2,4.7,-26.9,Mid (₹3-10cr),183,44
+Azmatullah Omarzai,Punjab Kings,2.4,Auction,Azmatullah Omarzai,8,57.0,41.0,8.0,162.0,279.0,-10.9,-20.9,-31.8,-4.7,-27.1,Budget (<₹3cr),184,43
+Matheesha Pathirana,Chennai Super Kings,13.0,Retained,M Pathirana,12,0.0,0.0,13.0,251.0,424.0,0.0,-14.2,-14.2,13.1,-27.3,Marquee (₹10cr+),185,42
+Jofra Archer,Rajasthan Royals,12.5,Auction,JC Archer,12,63.0,50.0,11.0,273.0,431.0,-21.1,5.7,-15.3,12.3,-27.6,Marquee (₹10cr+),186,41
+Harshal Patel,Sunrisers Hyderabad,8.0,Auction,HV Patel,13,21.0,26.0,16.0,263.0,430.0,-22.9,-0.3,-23.2,4.7,-27.9,Mid (₹3-10cr),187,40
+Quinton de Kock,Kolkata Knight Riders,3.6,Auction,Q de Kock,8,152.0,117.0,0.0,0.0,0.0,-30.6,0.0,-30.6,-2.7,-27.9,Mid (₹3-10cr),188,39
+Mukesh Kumar,Delhi Capitals,8.0,Auction,Mukesh Kumar,12,0.0,0.0,12.0,237.0,408.0,0.0,-23.3,-23.3,4.7,-28.0,Mid (₹3-10cr),189,38
+Shahbaz Ahmed,Lucknow Super Giants,2.4,Auction,Shahbaz Ahmed,3,9.0,8.0,1.0,51.0,102.0,-5.7,-27.3,-33.0,-4.7,-28.3,Budget (<₹3cr),190,37
+Spencer Johnson,Kolkata Knight Riders,2.8,Auction,SH Johnson,4,2.0,4.0,1.0,68.0,133.0,-3.6,-30.0,-33.5,-4.0,-29.5,Budget (<₹3cr),191,36
+Yuzvendra Chahal,Punjab Kings,18.0,Auction,YS Chahal,13,0.0,0.0,16.0,270.0,430.0,0.0,-8.4,-8.4,21.5,-29.9,Marquee (₹10cr+),192,35
+Ravichandran Ashwin,Chennai Super Kings,9.75,Auction,R Ashwin,9,33.0,30.0,7.0,186.0,283.0,-19.6,-2.8,-22.4,7.6,-30.0,Mid (₹3-10cr),193,34
+Rachin Ravindra,Chennai Super Kings,4.0,Auction,R Ravindra,8,191.0,149.0,0.0,0.0,0.0,-34.3,0.0,-34.3,-2.0,-32.3,Mid (₹3-10cr),194,33
+Mayank Yadav,Lucknow Super Giants,11.0,Retained,MP Yadav,2,0.0,0.0,2.0,48.0,100.0,0.0,-23.9,-23.9,9.7,-33.6,Marquee (₹10cr+),195,32
+David Miller,Lucknow Super Giants,7.5,Auction,DA Miller,11,153.0,120.0,0.0,0.0,0.0,-29.9,0.0,-29.9,3.9,-33.8,Mid (₹3-10cr),196,31
+MS Dhoni,Chennai Super Kings,4.0,Retained,MS Dhoni,13,196.0,145.0,0.0,0.0,0.0,-35.9,0.0,-35.9,-2.0,-33.9,Mid (₹3-10cr),197,30
+Shimron Hetmyer,Rajasthan Royals,11.0,Retained,SO Hetmyer,13,239.0,164.0,0.0,0.0,0.0,-24.4,0.0,-24.4,9.7,-34.1,Marquee (₹10cr+),198,29
+Mohit Sharma,Delhi Capitals,2.2,Auction,MM Sharma,8,1.0,3.0,2.0,150.0,257.0,-6.4,-32.9,-39.3,-5.0,-34.3,Budget (<₹3cr),199,28
+Rahul Tripathi,Chennai Super Kings,3.4,Auction,RA Tripathi,5,55.0,57.0,0.0,0.0,0.0,-37.5,0.0,-37.5,-3.0,-34.5,Mid (₹3-10cr),200,27
+Abhinav Manohar,Sunrisers Hyderabad,3.2,Auction,A Manohar,5,61.0,61.0,0.0,0.0,0.0,-38.7,0.0,-38.7,-3.4,-35.3,Mid (₹3-10cr),201,26
+Ravindra Jadeja,Chennai Super Kings,18.0,Retained,RA Jadeja,14,301.0,222.0,10.0,227.0,324.0,-32.9,17.6,-15.3,21.5,-36.8,Marquee (₹10cr+),202,25
+Mitchell Starc,Delhi Capitals,11.75,Auction,MA Starc,12,6.0,10.0,14.0,228.0,389.0,-14.6,-12.5,-27.1,11.0,-38.1,Marquee (₹10cr+),203,24
+Avesh Khan,Lucknow Super Giants,9.75,Auction,Avesh Khan,13,21.0,12.0,13.0,284.0,487.0,0.4,-30.9,-30.5,7.6,-38.1,Mid (₹3-10cr),204,23
+Sanju Samson,Rajasthan Royals,18.0,Retained,SV Samson,9,285.0,203.0,0.0,0.0,0.0,-17.6,0.0,-17.6,21.5,-39.1,Marquee (₹10cr+),205,22
+Dushmantha Chameera,Delhi Capitals,0.75,Auction,PVD Chameera,6,10.0,14.0,4.0,102.0,198.0,-10.4,-36.4,-46.7,-7.5,-39.2,Budget (<₹3cr),206,21
+Sam Curran,Chennai Super Kings,2.4,Auction,SM Curran,5,114.0,84.0,1.0,72.0,133.0,-15.6,-29.2,-44.8,-4.7,-40.1,Budget (<₹3cr),207,20
+Jake Fraser-McGurk,Delhi Capitals,9.0,Auction,J Fraser-McGurk,6,55.0,52.0,0.0,0.0,0.0,-34.4,0.0,-34.4,6.4,-40.8,Mid (₹3-10cr),208,19
+Andre Russell,Kolkata Knight Riders,12.0,Retained,AD Russell,11,167.0,102.0,8.0,109.0,217.0,1.6,-31.4,-29.8,11.4,-41.2,Marquee (₹10cr+),209,18
+Marcus Stoinis,Punjab Kings,11.0,Auction,MP Stoinis,12,160.0,86.0,1.0,85.0,175.0,21.8,-53.7,-31.9,9.7,-41.6,Marquee (₹10cr+),210,17
+Deepak Hooda,Chennai Super Kings,1.7,Auction,DJ Hooda,6,31.0,41.0,0.0,6.0,15.0,-41.3,-6.9,-48.1,-5.9,-42.2,Budget (<₹3cr),211,16
+Faf du Plessis,Delhi Capitals,2.0,Auction,F du Plessis,9,202.0,163.0,0.0,0.0,0.0,-48.3,0.0,-48.3,-5.4,-42.9,Budget (<₹3cr),212,15
+Tushar Deshpande,Rajasthan Royals,6.5,Auction,TU Deshpande,10,7.0,8.0,9.0,192.0,340.0,-7.7,-34.4,-42.2,2.2,-44.4,Mid (₹3-10cr),213,14
+Harshit Rana,Kolkata Knight Riders,4.0,Retained,Harshit Rana,13,57.0,53.0,15.0,264.0,448.0,-29.4,-19.4,-48.8,-2.0,-46.8,Mid (₹3-10cr),214,13
+Kagiso Rabada,Gujarat Titans,10.75,Auction,K Rabada,4,9.0,8.0,2.0,84.0,162.0,-5.7,-32.8,-38.5,9.3,-47.8,Marquee (₹10cr+),215,12
+Venkatesh Iyer,Kolkata Knight Riders,23.75,Auction,VR Iyer,7,142.0,102.0,0.0,0.0,0.0,-16.8,0.0,-16.8,31.1,-47.9,Marquee (₹10cr+),216,11
+Maheesh Theekshana,Rajasthan Royals,4.4,Auction,M Theekshana,11,10.0,27.0,11.0,252.0,410.0,-34.2,-15.8,-50.0,-1.3,-48.7,Mid (₹3-10cr),217,10
+Nitish Kumar Reddy,Sunrisers Hyderabad,6.0,Retained,Nithish Kumar Reddy,12,182.0,153.0,2.0,30.0,47.0,-49.6,1.0,-48.6,1.3,-49.9,Mid (₹3-10cr),218,9
+Simarjeet Singh,Sunrisers Hyderabad,1.5,Auction,Simarjeet Singh,4,3.0,7.0,2.0,60.0,141.0,-13.3,-49.3,-62.6,-6.2,-56.4,Budget (<₹3cr),219,8
+Fazalhaq Farooqi,Rajasthan Royals,2.0,Auction,Fazalhaq Farooqi,5,2.0,2.0,0.0,102.0,210.0,-0.9,-61.8,-62.7,-5.4,-57.3,Budget (<₹3cr),220,7
+Akash Deep,Lucknow Super Giants,8.0,Auction,Akash Deep,6,6.0,2.0,3.0,114.0,229.0,0.1,-54.3,-54.2,4.7,-58.9,Mid (₹3-10cr),221,6
+Rashid Khan,Gujarat Titans,18.0,Retained,Rashid Khan,15,40.0,28.0,9.0,330.0,514.0,-14.8,-24.5,-39.2,21.5,-60.7,Marquee (₹10cr+),222,5
+Shivam Dube,Chennai Super Kings,12.0,Retained,S Dube,14,357.0,270.0,0.0,12.0,33.0,-42.1,-16.7,-58.8,11.4,-70.2,Marquee (₹10cr+),223,4
+Mohammed Shami,Sunrisers Hyderabad,10.0,Auction,Mohammed Shami,9,10.0,10.0,6.0,180.0,337.0,-7.6,-59.0,-66.7,8.1,-74.8,Marquee (₹10cr+),224,3
+Rishabh Pant,Lucknow Super Giants,27.0,Auction,RR Pant,13,269.0,202.0,0.0,0.0,0.0,-39.6,0.0,-39.6,36.6,-76.2,Marquee (₹10cr+),225,2
+Ravi Bishnoi,Lucknow Super Giants,11.0,Retained,Ravi Bishnoi,11,13.0,16.0,9.0,222.0,401.0,-16.4,-65.7,-82.1,9.7,-91.8,Marquee (₹10cr+),226,1

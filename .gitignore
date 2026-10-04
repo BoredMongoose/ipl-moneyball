@@ -1,0 +1,3 @@
+data/raw/
+data/processed/*.duckdb
+__pycache__/
