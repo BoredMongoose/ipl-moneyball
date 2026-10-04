@@ -2,7 +2,7 @@
 
 **Question:** IPL franchises spent about ₹1,180 crore on 226 players before the 2025 season. Did the money go to the players who actually won matches?
 
-**Short answer:** Not really. Price explains only about **10% of the variation** in on-field impact (r = 0.31). A third of the cheap buys never played a match. And one great season says surprisingly little about the next.
+**Short answer:** Not really. Price explains only about **10% of the variation** in on-field impact (r = 0.31). More than a third of the cheap buys (36%) never played a match. And one great season says surprisingly little about the next.
 
 ![Price vs impact](images/01_price_vs_impact.png)
 
