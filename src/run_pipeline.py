@@ -85,6 +85,7 @@ def load_match_results(con):
 
 def main():
     con = duckdb.connect(str(PROC / "ipl.duckdb"))
+    con.execute("SET threads = 1")   # same summation order every run, so re-running reproduces the outputs exactly
     with zipfile.ZipFile(RAW / "ipl_csv2.zip") as z:
         z.extract("all_matches.csv", RAW)
     con.execute(f"CREATE OR REPLACE TABLE balls AS SELECT * FROM read_csv_auto('{(RAW / 'all_matches.csv').as_posix()}', sample_size=-1, types={{'season': 'VARCHAR'}})")
@@ -109,11 +110,11 @@ def main():
     for f in ("04_value.sql", "05_team_validation.sql", "06_persistence.sql"):
         con.execute((SQL / f).read_text(encoding="utf-8"))
 
-    value = con.execute("SELECT * FROM value_2025 ORDER BY surplus DESC").df()
+    value = con.execute("SELECT * FROM value_2025 ORDER BY surplus DESC, player_full").df()
     value.to_csv(PROC / f"value_2025_w{int(WICKET_VALUE)}.csv", index=False)
-    if WICKET_VALUE == 6.0:  # the headline run feeds the charts and the Power BI export
+    if WICKET_VALUE == 6.0:  # the headline run feeds the charts
         for table in ("player_impact", "team_validation", "persistence"):
-            con.execute(f"SELECT * FROM {table}").df().to_csv(PROC / f"{table}.csv", index=False)
+            con.execute(f"SELECT * FROM {table} ORDER BY ALL").df().to_csv(PROC / f"{table}.csv", index=False)
     print(prices.match_method.value_counts().to_string())
     print("unmatched (likely did not play in 2025):", ", ".join(prices[prices.cricsheet_name.isna()].player))
 
