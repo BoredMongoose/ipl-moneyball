@@ -68,16 +68,7 @@ ipl-moneyball/
 └── images/
 ```
 
-### Reproduce
-
-```bash
-pip install -r requirements.txt
-python src/build_prices.py
-python src/run_pipeline.py 3 && python src/run_pipeline.py 10 && python src/run_pipeline.py 6
-python src/charts.py
-```
-
-Raw data: [Cricsheet](https://cricsheet.org/downloads/) IPL ball-by-ball (`ipl_csv2.zip`) and its [player register](https://cricsheet.org/register/), plus Wikipedia's [2025 IPL personnel changes](https://en.wikipedia.org/wiki/List_of_2025_Indian_Premier_League_personnel_changes). Place them in `data/raw/`.
+**Data:** [Cricsheet](https://cricsheet.org/downloads/) IPL ball-by-ball (`ipl_csv2.zip`) and its [player register](https://cricsheet.org/register/), plus Wikipedia's [2025 IPL personnel changes](https://en.wikipedia.org/wiki/List_of_2025_Indian_Premier_League_personnel_changes).
 
 ---
 *Data current to the end of IPL 2026. Cricsheet data is used under its open data licence (ODC-BY).*
