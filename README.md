@@ -14,7 +14,7 @@
 |---|---|---|
 | 1 | **Price is a weak signal.** Expensive players are better on average, but plenty of ₹10 cr+ players added nothing, and some ₹1 cr players were among the best in the league. | r = 0.31 between price and runs added (226 players) |
 | 2 | **The best value was elite bowling.** Bumrah, Prasidh Krishna, Varun Chakravarthy and Hazlewood each delivered 75–135 more runs of value than their price predicted. Jaydev Unadkat (₹1 cr) and Mitchell Marsh (₹3.4 cr) were the stand-out bargains. | [Steals and busts chart](images/02_steals_and_busts.png) |
-| 3 | **The costliest flops:** Ravi Bishnoi (₹11 cr), Rashid Khan (₹18 cr) and Rishabh Pant (₹27 cr, the most expensive player in IPL history) all cost their teams runs compared with an average player. | Same chart |
+| 3 | **The costliest flops:** Ravi Bishnoi (₹11 cr), Rashid Khan (₹18 cr) and Rishabh Pant (₹27 cr, a record auction price at the time) all cost their teams runs compared with an average player. | Same chart |
 | 4 | **Mid-priced players were the weakest band.** Only 33% of ₹3–10 cr players who took the field beat an average player, compared with 58% of marquee players. And 36% of budget buys never played at all. | [Price band chart](images/03_price_bands.png) |
 | 5 | **Last season's heroes regress.** The top 20% of players in 2025 added +7.3 runs per match. The same players added just +1.7 in 2026. Bidding big on one hot season is risky. | Year-to-year r = 0.23 (80 players) |
 
