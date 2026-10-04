@@ -8,6 +8,16 @@
 
 ---
 
+<!-- business:start -->
+## Business impact
+
+- **Question:** Which IPL auction buys were worth the money, and how should a team spend?
+- **Key finding:** Auction price explained only about 10% of what players delivered. 36% of budget buys never played, mid-priced players were the weakest band, and last season's stars fell back the next year.
+- **Recommendation:** Don't pay for one hot season. Spend on proven, consistent performers (elite bowling was the best value), and don't fill the squad with budget buys who never play.
+- **Estimated impact:** **10%** of player impact explained by auction price, across ₹1,180 crore spent on 226 players.
+- **Case study:** [boredmongoose.github.io/projects/ipl.html](https://boredmongoose.github.io/projects/ipl.html)
+<!-- business:end -->
+
 ## Key findings
 
 | # | Finding | Evidence |
@@ -47,6 +57,14 @@ An average player scores 0, and the whole league sums to exactly 0 each season (
 - Prices are 2025 mega-auction and retention prices. Mid-season replacement signings are excluded.
 - Retention prices are partly set by league rules (fixed retention slabs), not open bidding.
 
+<!-- next:start -->
+## Next steps
+
+1. Add fielding and wicket-keeping, which the metric misses.
+2. Use several seasons per player to separate skill from luck before ranking value.
+3. Turn the fair-price line into an auction tool: a maximum sensible bid for each player.
+<!-- next:end -->
+
 ## Tools and structure
 
 **SQL (DuckDB)** for all modeling: CTEs, window functions (`RANK`, `NTILE`), `REGR_SLOPE`, NULL-safe logic. **Python (pandas)** for scraping, name matching and orchestration. **matplotlib** for charts.
@@ -61,12 +79,25 @@ ipl-moneyball/
 │   ├── 05_team_validation.sql   # does the metric predict wins?
 │   └── 06_persistence.sql       # 2025 → 2026 consistency
 ├── src/
+│   ├── fetch_data.py            # download the raw data
 │   ├── build_prices.py          # parse auction + retention tables from Wikipedia
 │   ├── run_pipeline.py          # load data, run SQL, match names, export
 │   └── charts.py
 ├── data/processed/              # output tables (CSV)
 └── images/
 ```
+
+## Reproduce
+
+```bash
+pip install -r requirements.txt
+python src/fetch_data.py      # Cricsheet ball-by-ball data and player register, Wikipedia auction page (pinned revision)
+python src/build_prices.py    # auction and retention prices -> data/processed/prices_2025.csv
+python src/run_pipeline.py    # DuckDB SQL models and name matching -> data/processed/
+python src/charts.py          # charts -> images/
+```
+
+Cricsheet adds each new season to its download, so a later run also includes matches played after IPL 2026.
 
 **Data:** [Cricsheet](https://cricsheet.org/downloads/) IPL ball-by-ball (`ipl_csv2.zip`) and its [player register](https://cricsheet.org/register/), plus Wikipedia's [2025 IPL personnel changes](https://en.wikipedia.org/wiki/List_of_2025_Indian_Premier_League_personnel_changes).
 
