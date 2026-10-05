@@ -11,10 +11,10 @@
 <!-- business:start -->
 ## Business impact
 
-- **Question:** Which IPL auction buys were worth the money, and how should a team spend?
-- **Key finding:** Auction price explained only about 10% of what players delivered. 36% of budget buys never played, mid-priced players were the weakest band, and last season's stars fell back the next year.
+- **Question:** Are IPL teams getting value for their auction money?
+- **Key finding:** Mostly not. Auction price explained only about 10% of what players delivered. 36% of budget buys never played, mid-priced players were the weakest band, and last season's stars fell back the next year.
 - **Recommendation:** Don't pay for one hot season. Spend on proven, consistent performers (elite bowling was the best value), and don't fill the squad with budget buys who never play.
-- **Estimated impact:** **10%** of player impact explained by auction price, across ₹1,180 crore spent on 226 players.
+- **Estimated impact:** **10%** of player performance explained by auction price, across ₹1,180 crore spent on 226 players.
 - **Case study:** [boredmongoose.github.io/projects/ipl.html](https://boredmongoose.github.io/projects/ipl.html)
 <!-- business:end -->
 
